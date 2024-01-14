@@ -20,9 +20,9 @@
 I'm a game developer
 
 <details> 
-  <summary><h2>📺 Latest YouTube Videos</h2></summary>
+  <summary><h2>📺 Game Project Walkthrough Videos</h2></summary>
 
-  <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
+  <!-- YouTube Cards - https://github.com/QUXINE/github-readme-youtube-cards -->
 
   <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
