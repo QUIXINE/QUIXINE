@@ -1,6 +1,17 @@
-### Hi there 👋
+# QUIXINE
+**`Student`, `Game Progreammer to Be`**
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+---
+### Who Am I???
+I'm QUIXINE. Learning game dev now. 🎮I like game programming💻 because it makes me feel enjoyful and it's fun compare to other programming fields. Well, right now I'm still learning, so my skills are not quite professional, but I'll keep moving forward to make a really fun game one day. I played indy, puzzle and games that the art style, mechanics that seems interesting to me such as Lost in Random, Gris. I've never played popular game though, but I'll try for sure when I have money🤣. Other than game, I read sometimes. 📚The book I've read are fiction, non-fiction, text book, sometime politics. I like playing volleyball, the feeling of spiking just really really excites me.
 
-**`Developer/Programmer`**
+---
 
  <h3>💻 GitHub Profile Stats</h3>
 
